@@ -6,7 +6,7 @@ class ArrayProcessingApp(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("PR3|Задание 2")
+        self.setWindowTitle("")
         self.setGeometry(100, 100, 300, 200)
 
         layout = QVBoxLayout()

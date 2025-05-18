@@ -8,7 +8,7 @@ from PySide6.QtCore import Qt
 class ArrayProcessor(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("PR2|Задание 2")
+        self.setWindowTitle("")
         self.setGeometry(100, 100, 500, 250)
 
         self.layout = QVBoxLayout()
