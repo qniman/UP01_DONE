@@ -9,7 +9,7 @@ from PySide6.QtGui import QFont
 class SelectionSortApp(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("PR4|Задание 2")
+        self.setWindowTitle("")
         self.setGeometry(100, 100, 600, 300)
 
         self.central_widget = QWidget()
