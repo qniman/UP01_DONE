@@ -10,7 +10,7 @@ from PySide6.QtWidgets import (
 class MatrixProcessor(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Обработка двумерного массива")
+        self.setWindowTitle("")
         self.setGeometry(100, 100, 600, 400)
 
         self.layout = QVBoxLayout()

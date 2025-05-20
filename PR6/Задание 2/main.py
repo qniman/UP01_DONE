@@ -9,7 +9,7 @@ from PySide6.QtWidgets import (
 class RemoveFirstOdd(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Удалить первый нечётный элемент")
+        self.setWindowTitle("")
         self.setGeometry(100, 100, 400, 300)
 
         self.layout = QVBoxLayout()

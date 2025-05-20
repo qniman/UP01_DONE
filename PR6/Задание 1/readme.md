@@ -23,8 +23,8 @@
 
 #### Системный анализ
 
-> Входные данные: `Integer n`
-> Промежуточные данные: `Array array` `Float average`, `Integer max_index`
+> Входные данные: `Integer n`  
+> Промежуточные данные: `Array array` `Float average`, `Integer max_index`  
 > Выходные данные: `Array result`
 
 #### Блок-схема
