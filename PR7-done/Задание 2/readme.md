@@ -24,7 +24,7 @@
 
 > Входные данные: `Integer size_a` `Integer size_a`  
 > Промежуточные данные: `Array A` `Array B` `Integer count_a` `Integer count_b`  
-> Выходные данные: `String result`  
+> Выходные данные: `String result`
 
 #### Блок-схема
 
